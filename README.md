@@ -30,6 +30,7 @@ this ipynb file is for making skeleton map(reference. https://github.com/evalsoc
 Here is a output of this project. There are vectormap and heatmap images and output of my network.
 
 input images
+
 ![input_image](/output_for_github/input_image.png)
 
 1. Heatmap images
@@ -39,9 +40,11 @@ input images
 
 
 2. Vectormap images
+
 ![PAFs_output](/output_for_github/output_vectormap.png)
 
 
 3. otuput images of my Network
+
 ![output](/output_for_github/output.png)
 
